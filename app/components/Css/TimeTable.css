@@ -1,0 +1,24 @@
+  .callout {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+
+}
+.callout-danger {
+    border-left-color: #ce4844;
+}
+.callout-primary {
+    border-left-color: #337ab7;
+}
+
+.callout-sucess {
+    border-left-color: #5cb85c;
+}
+.callout-info {
+    border-left-color: #5bc0de;
+}
+.callout-warning {
+    border-left-color: #f0ad4e;
+}
